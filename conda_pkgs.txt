@@ -1,0 +1,9 @@
+opencv
+svgwrite
+cairosvg
+
+scikit-learn
+shapely
+
+toml
+easydict
